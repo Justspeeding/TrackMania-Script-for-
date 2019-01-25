@@ -1,4 +1,4 @@
-	------------------------------------------------------------------------------------------------start change render engine part 1
+	-----------------------------------------------------------------------------------------------start change render engine part 1
 	if (( JustSPeeding != undefined) and ( JustSPeeding.isdisplayed)) do
 (destroyDialog JustSPeeding_rollout ) -- test if dialog exist
 
